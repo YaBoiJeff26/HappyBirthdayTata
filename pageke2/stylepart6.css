@@ -26,7 +26,7 @@ body{
     width: 100%;
     height: 100vh;
     background-size: 100%;
-    background-image: url(assets/backgroundtemen6.jpg);
+    background-image: url(/HappyBirthdayTata/assets/backgroundtemen6.jpg);
     background-color: rgba(0,0,0,0.5);
     background-blend-mode: multiply;
     background-position: center;
